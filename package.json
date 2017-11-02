@@ -1,0 +1,28 @@
+{
+  "name": "bmjs-css",
+  "version": "0.1.0",
+  "description": "A JavaScript library for generating static CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brent258/bmjs-css.git"
+  },
+  "keywords": [
+    "css",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Brent McCoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brent258/bmjs-css/issues"
+  },
+  "homepage": "https://github.com/brent258/bmjs-css#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
